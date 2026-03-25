@@ -3,7 +3,7 @@
 import socket
 import json
 
-HOST = "127.0.0.1"
+HOST = "10.87.34.207"
 PORT = 2604
 
 msg = {
